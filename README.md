@@ -5,6 +5,8 @@ Foi usado um conceito de (clip) para alternar as cores do header com a logo e o 
 A medida com que o site é rolado para baixo, a janela de registrar-se aparece de forma suave.
 Também acontecera do nome "acessar" e "interagir" aparecer de forma randômica (aleatória).
 
+https://drive.google.com/file/d/1VheOUuYpoiSXv3bUKx59-ZLqFiIdMWZl/view?usp=sharing
+
 ## configurações para iniciar o Projeto em sua máquina:
 
 O projeto foi feito usando o [Create React App](https://github.com/facebook/create-react-app).
